@@ -126,3 +126,4 @@ Full suite after all fixes: **15 passed.**
 See `git log --oneline` on `bugfix/mixtape` — one commit per fix, conventional-commit format. (Screenshot below.)
 
 <!-- Paste screenshot of `git log --oneline` here -->
+![alt text](image.png)
